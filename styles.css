@@ -1,18 +1,76 @@
-.content{
-  width: 70%;
-  background-color: #f9f9f9;
-  font-family: Verdana;
-  margin-top: 20px;
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 45px;
-  border: 4px solid #ffa500; 
+body{
+	margin: 0px;
+}
+main{
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 35px;
+}
+article{
+	width: 70%;
+	background-color: #f9f9f9;
+	font-family: Verdana;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 45px;
+	border: 4px solid #ffa500;
+}
+footer{
+	background: #efefef;
+	padding: 15px 15px 15px 15px;
+	margin-top: 3%;
+	margin-left: 8%;
+	margin-bottom: 8%;
+}
+h1 {
+	font-size: 18px;
+}
+p{
+	text-align: justify;
+	line-height: 1.5;
+	font-size: 16px;
+}
+.data{
+	float: none;
+	margin: 8% 8% 3% 8%;
+	font-size: 16px;
+}
+.estilo_data {
+	text-align: center;
+	background: #efefef;
+	padding: 15px 15px 15px 15px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 16px;
+}
+.apresentacao {
+	font-weight: 600;
+	background: #efefef;
+	padding: 15px 15px 15px 15px;
+	margin-left: 8%;
+}
+.conteudo{
+	background: #efefef;
+	padding: 15px 15px 15px 15px;
+	margin-top: 5%;
+	margin-left: 8%;
+	margin-right: 8%;
+	font-size: 16px;
+}
+.despedida{
+	background: #efefef;
+	padding: 15px 15px 15px 15px;
+	margin-top: 5%;
+	margin-left: 8%;
+	font-size: 16px;
+
+}
+.aluno{
+	color: #256585;
+	font-size: 16px;
+}
+.academico{
+	font-size: 14px;
 }
 
-.data{
-  text-align: center;
-  background: #efefef;
-  padding: 15px 15px 15px 15px;
-  margin-left: auto;
-  margin-right: auto;
-}
